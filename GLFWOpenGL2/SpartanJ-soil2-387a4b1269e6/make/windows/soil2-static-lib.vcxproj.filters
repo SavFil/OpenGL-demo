@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{2930C995-18AD-E54A-9752-59AD5F74CDDA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\SOIL2">
+      <UniqueIdentifier>{7ADFE331-2E06-3245-97D0-06388560F21E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\src\SOIL2\etc1_utils.c">
+      <Filter>src\SOIL2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\SOIL2\image_DXT.c">
+      <Filter>src\SOIL2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\SOIL2\image_helper.c">
+      <Filter>src\SOIL2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\SOIL2\SOIL2.c">
+      <Filter>src\SOIL2</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
